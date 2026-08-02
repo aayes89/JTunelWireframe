@@ -23,3 +23,4 @@ Este software está protegido bajo licencia MIT, para más información referirs
 # Capturas
 <img width="1908" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/495ae995-95ea-4b23-9aaa-52ecc1543e92" />
 
+<img width="1920" height="1064" alt="Más Allá 2026-08-02 12-14-09" src="https://github.com/user-attachments/assets/bc8c86eb-f2c9-4e8b-af6b-fabeb6b35831" />
